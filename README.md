@@ -1,5 +1,5 @@
 [![MasterHead](https://media1.giphy.com/headers/monstercat/LQnX59nHBsOV.gif)
-[![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
+
 <h1 align="center">Hi 👋, I'm DHANUSH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
