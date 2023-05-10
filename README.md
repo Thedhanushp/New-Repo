@@ -2,7 +2,7 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 <h1 align="center">Hi 👋, I'm DHANUSH</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="300" src="https://www.lambdatest.com/resources/images/news24.gif"> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thedhanushp&label=Profile%20views&color=0e75b6&style=flat" alt="thedhanushp" /> </p>
 
