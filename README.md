@@ -1,6 +1,11 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
 # 💫 About Me:
-      Hey ,<br>🌱 I’m currently learning Artificial Intelligence, Machine Learning,<br>      flutter, cyber security & ethical hacking.<br>💬 Ask me about.....<br>🤝 I’m looking for help.....<br>⚡ Fun fact I'm lazy but smart.
+      Hey ,
+      <br>🌱 I’m currently learning Artificial Intelligence, Machine Learning,<br>     
+      flutter, cyber security & ethical hacking.<br>
+      💬 Ask me about.....<br>
+      🤝 I’m looking for help.....<br>
+      ⚡ Fun fact I'm lazy but smart.
 
 
 ## 🌐 Socials:
