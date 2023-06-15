@@ -1,5 +1,5 @@
 [![MasterHead](https://digitaledgetech.in/images/Banner_03.gif)
-//[![MasterHead](https://blackstormroofingmarketing.com/wp-content/uploads/2020/07/What-to-do-if-Your-Roofing-Website-is-hacked.gif)
+
 # 💫 About Me:
       Hey ,
       🌱 I’m currently learning Artificial Intelligence, Machine Learning,     
